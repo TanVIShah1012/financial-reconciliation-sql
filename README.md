@@ -66,9 +66,17 @@ Reconciliation summary report
 
 Variance by account visualization
 
+<img width="942" height="573" alt="image" src="https://github.com/user-attachments/assets/16718617-8b13-46b4-8f3f-fce68e7e2078" />
+
+
 Running balance trend analysis
 
+<img width="701" height="460" alt="image" src="https://github.com/user-attachments/assets/a2813530-d9e3-4ac1-bdea-dffd5c658a91" />
+
+
 Daily net flow with rolling window
+
+<img width="700" height="460" alt="image" src="https://github.com/user-attachments/assets/04b23080-bd45-4024-8f83-51b4e3a9a4e5" />
 
 Audit-ready CSV exports for flagged anomalies
 
